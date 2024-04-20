@@ -67,7 +67,7 @@ nav ul li {
     gap: 40px;
 }
 
-.header-menu-link: {
+.header-menu-link {
     padding: 24px 0;
 }
 
@@ -225,13 +225,13 @@ ul, ol {
 }
 
 .team-list {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
     display: flex;
     gap: 24px;
 }
 
 .team-item {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
     width: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
 }
