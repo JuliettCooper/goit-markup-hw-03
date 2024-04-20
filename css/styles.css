@@ -1,0 +1,260 @@
+a {
+    text-decoration: none;
+    color: #2e2f42;
+}
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color:#FFFFFF
+}
+ul, ol {
+    list-style: none;
+}
+
+/* -------HEADER------- */
+
+.header {
+
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+}
+nav ul li {
+    margin-right: 40px;
+}
+
+.title {
+    text-align: center
+}
+.header-logo-link {
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+
+.logo-accent {
+    color: #2e2f42;
+}
+
+.header-menu-list {
+    margin-right: 832px;
+    margin-bottom: 24px;
+}
+.header-menu-item {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.header-menu-link:hover,
+.header-menu-link:active,
+.header-menu-link:focus {
+    color: #404bbf;
+}
+.address {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-style: normal;
+}
+
+.address-list {
+    margin-right: 156px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.address-link {
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.address-link:hover {
+    color: #404bbf;
+}
+.address-link:focus {
+    color: #404bbf;
+}
+
+/* ----------------------- */
+
+/* -------SOLUTIONS------- */
+
+ul, ol {
+    list-style-type: none;
+}
+
+.solutions {
+    background-color: #2E2F42;
+}
+
+.solutions-title {
+    background-color: #2E2F42;
+    color: white;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 107%;
+    letter-spacing: 0.02em;
+    text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    text-align: center;
+}
+
+.service-btn {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background: #4d5ae5;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif
+}
+.service-btn:hover,
+.service-btn:focus {
+    background-color: #404bbf;
+}
+.advantages {}
+
+.advantages-list {}
+
+.advantages-item {}
+
+.advantages-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.advantages-item-title {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+}
+
+/* ---------------------- */
+
+/* -------OUR TEAM------- */
+
+.our-team {
+    background-color: #f4f4fd;;
+}
+
+.team-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;
+}
+
+.team-list {
+    background-color: #FFFFFF
+}
+
+.team-item {
+    background-color: #FFFFFF
+}
+
+.team-item-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.team-item-specialist {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+/* ----------------------- */
+
+/* -------PORTFOLIO------- */
+
+.our-portfolio {
+
+}
+
+.our-portfolio-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;
+}
+
+.our-portfolio-list {}
+
+.our-portfolio-item {}
+
+.our-portfolio-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.our-portfolio-teg {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* -------------------- */
+
+/* -------FOOTER------- */
+
+.footer {
+    background: #2e2f42;
+}
+
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.footer-logo-accent {
+color: #f4f4fd;
+}
+
+.footer-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+
+/* -------------------- */
